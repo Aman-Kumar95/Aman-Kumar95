@@ -1,7 +1,9 @@
 <div align="center">
   
-  # ⚡ Aman Kumar
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9D&height=250&section=header&text=Aman%20Kumar&fontSize=90&fontColor=0D1117&animation=twinkling&desc=AI%20Systems%20Architect&descAlignY=65" width="100%"/>
   
+  <br>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+Systems+Architect;Architecting+Autonomous+Cloud+Infrastructure;Building+High-Performance+Distributed+Backends;Specializing+in+RAG,+LLMs+%26+Multi-Agent+Workflows" alt="Typing SVG" />
   </a>
@@ -15,9 +17,11 @@
 
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
-### 🧠 Core Engineering Focus
+### 🧠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Core Engineering Focus
 
 I engineer intelligent, high-throughput applications by bridging the gap between scalable cloud architectures and modern AI capabilities. My expertise lies in designing modular backends, implementing vector-space retrieval arrays, and orchestrating state-driven multi-agent frameworks.
 
@@ -25,7 +29,9 @@ I engineer intelligent, high-throughput applications by bridging the gap between
 - ⚙️ **Current Architecture Lab:** Building complex pipelines utilizing **ChromaDB**, **Groq (Llama-3)** for high-speed inference, and **FastAPI** for non-blocking asynchronous payload delivery.
 - 🌱 **Deep Learning Initiatives:** Focusing on advanced prompt engineering, RAG memory state persistence, and predictive operational monitoring.
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ### ⚡ Technical Stack & Infrastructure
 
@@ -62,7 +68,9 @@ I engineer intelligent, high-throughput applications by bridging the gap between
   </table>
 </div>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<br>
 
 ### 📊 Repository Telemetry & Graph
 
