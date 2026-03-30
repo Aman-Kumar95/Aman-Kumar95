@@ -67,17 +67,17 @@ I engineer intelligent, high-throughput applications by bridging the gap between
 ### 📊 Repository Telemetry & Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar95&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&ring_color=00FF9D&title_color=00FF9D&text_color=E6E6E6&icon_color=00FF9D" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar95&theme=omni&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=ffffff&sideLabels=E6E6E6&sideNums=E6E6E6&dates=E6E6E6" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF9D&title_color=00FF9D" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar95&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=ffffff&sideLabels=E6E6E6&sideNums=E6E6E6&dates=E6E6E6" height="190" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br>
   <!-- GitHub Snake Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
