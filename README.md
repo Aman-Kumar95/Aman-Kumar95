@@ -21,13 +21,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 
-### 🧠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Core Engineering Focus
+### 🧠 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Engineering Focus & Featured Work
 
-I engineer intelligent, high-throughput applications by bridging the gap between scalable cloud architectures and modern AI capabilities. My expertise lies in designing modular backends, implementing vector-space retrieval arrays, and orchestrating state-driven multi-agent frameworks.
+I am a Full-Stack Software Engineer building intelligent scalable backends, responsive UI architectures, and autonomous platforms. Over the past few years, I have built a diverse portfolio ranging from complex React architectures to collaborative backends, and now, AI-driven automation.
 
-- 🔭 **Spearheading:** **[CloudWise AI](https://github.com/Aman-Kumar95/CloudwiseAI)** — Designed a complete autonomous multi-agent platform capable of deep-analyzing AWS topologies, identifying cost anomalies via rolling baselines, and executing rightsizing algorithms.
-- ⚙️ **Current Architecture Lab:** Building complex pipelines utilizing **ChromaDB**, **Groq (Llama-3)** for high-speed inference, and **FastAPI** for non-blocking asynchronous payload delivery.
-- 🌱 **Deep Learning Initiatives:** Focusing on advanced prompt engineering, RAG memory state persistence, and predictive operational monitoring.
+- 🔭 **Enterprise AI:** **[CloudWise AI](https://github.com/Aman-Kumar95/CloudwiseAI)** — Architected an autonomous multi-agent platform capable of deep-analyzing AWS topologies and executing cloud cost right-sizing using TypeScript, FastAPI, and ChromaDB.
+- 🤝 **Collaborative Architecture:** **[Project HelpKaro](https://github.com/Aman-Kumar95/Project-HelpKaro)** — Developed a collaborative web application alongside society members, utilizing strict version control, real-time features, and team-driven rollouts.
+- ⚛️ **Frontend Engineering & Clones:** Engineered precise UI replicas including a **Spotify-Clone** and **Netflix-Clone**, while mastering React state management through utility apps like a **Currency Converter**, **Password Generator**, and **React Router**.
+- ⚙️ **Backend & Integrations:** Built a specialized **[TelegramDriveId](https://github.com/Aman-Kumar95/TelegramDriveId)** integration script and robust logic pipelines via my core **[Backend-project](https://github.com/Aman-Kumar95/Backend-project)** repository.
 
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
