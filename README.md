@@ -34,39 +34,39 @@ I am a Full-Stack Software Engineer building intelligent scalable backends, resp
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br>
 
-### ⚡ Technical Stack & Infrastructure
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="60" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="60" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" height="60" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="60" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="60" />
+  <img width="15" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" height="60" />
+</div>
+
+<br>
+
+### 🛠️ Full Tech Arsenal
 
 <div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td align="center" width="25%"><b>🤖 AI & Vector Space</b></td>
-      <td align="center" width="25%"><b>⚙️ Distributed Backends</b></td>
-      <td align="center" width="25%"><b>☁️ Cloud & DevOps</b></td>
-      <td align="center" width="25%"><b>🖥️ Client Architectures</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <br />
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
-        <br /><i>Groq, Llama-3, ChromaDB</i>
-      </td>
-      <td align="center">
-        <br />
-        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis" />
-        <br /><i>AsyncIO, WebSockets, REST</i>
-      </td>
-      <td align="center">
-        <br />
-        <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux" />
-        <br /><i>EC2, S3, Boto3, CI/CD</i>
-      </td>
-      <td align="center">
-        <br />
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
-        <br /><i>React 18, State Context, SSR</i>
-      </td>
-    </tr>
-  </table>
+  
+  <p>⚛️ <b>Frontend</b></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" alt="frontend stack" />
+  
+  <br><br>
+  
+  <p>🔧 <b>Backend & Infra</b></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,mongodb,postgres,docker,git" alt="backend stack" />
+
+  <br><br>
+
+  <p>🎨 <b>Design & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=figma,vscode,vercel,github,linux,postman" alt="design stack" />
+
 </div>
 
 <br>
