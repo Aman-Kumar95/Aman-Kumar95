@@ -1,54 +1,62 @@
 <div align="center">
   
-  # 🚀 Aman Kumar
+  # ⚡ Aman Kumar
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Building+Scalable+Web+Applications;AI+Integrations+%26+Cloud+Architecture;Turning+Ideas+into+Dark-Mode+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+AI+Systems+Architect;Architecting+Autonomous+Cloud+Infrastructure;Building+High-Performance+Distributed+Backends;Specializing+in+RAG,+LLMs+%26+Multi-Agent+Workflows" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <p align="center">
-    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </p>
 
 </div>
 
 ---
 
-### 🔥 About Me
+### 🧠 Core Engineering Focus
 
-I design and build dynamic, AI-powered applications that solve complex problems with stunning user interfaces. 
+I engineer intelligent, high-throughput applications by bridging the gap between scalable cloud architectures and modern AI capabilities. My expertise lies in designing modular backends, implementing vector-space retrieval arrays, and orchestrating state-driven multi-agent frameworks.
 
-- 🔭 **Featured Project:** Architecting **[CloudWise AI](https://github.com/Aman-Kumar95/CloudwiseAI)** — an autonomous, multi-agent cloud cost optimization platform.
-- 🧠 **Current Focus:** Deepening expertise in **RAG AI Systems**, **LLM Integration**, and scalable cloud infrastructure.
-- ⚡ **Philosophy:** Code should not only work perfectly, but it should feel premium and intuitive to the user.
+- 🔭 **Spearheading:** **[CloudWise AI](https://github.com/Aman-Kumar95/CloudwiseAI)** — Designed a complete autonomous multi-agent platform capable of deep-analyzing AWS topologies, identifying cost anomalies via rolling baselines, and executing rightsizing algorithms.
+- ⚙️ **Current Architecture Lab:** Building complex pipelines utilizing **ChromaDB**, **Groq (Llama-3)** for high-speed inference, and **FastAPI** for non-blocking asynchronous payload delivery.
+- 🌱 **Deep Learning Initiatives:** Focusing on advanced prompt engineering, RAG memory state persistence, and predictive operational monitoring.
 
 ---
 
-### 💻 Arsenal & Technologies
+### ⚡ Technical Stack & Infrastructure
 
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
-      <td align="center" width="33%"><b>🎨 Frontend</b></td>
-      <td align="center" width="33%"><b>⚙️ Backend & AI</b></td>
-      <td align="center" width="33%"><b>☁️ Cloud & Tools</b></td>
+      <td align="center" width="25%"><b>🤖 AI & Vector Space</b></td>
+      <td align="center" width="25%"><b>⚙️ Distributed Backends</b></td>
+      <td align="center" width="25%"><b>☁️ Cloud & DevOps</b></td>
+      <td align="center" width="25%"><b>🖥️ Client Architectures</b></td>
     </tr>
     <tr>
       <td align="center">
         <br />
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind" />
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
+        <br /><i>Groq, Llama-3, ChromaDB</i>
       </td>
       <td align="center">
         <br />
-        <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,postgres" />
+        <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis" />
+        <br /><i>AsyncIO, WebSockets, REST</i>
       </td>
       <td align="center">
         <br />
-        <img src="https://skillicons.dev/icons?i=aws,docker,git,linux" />
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux" />
+        <br /><i>EC2, S3, Boto3, CI/CD</i>
+      </td>
+      <td align="center">
+        <br />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite" />
+        <br /><i>React 18, State Context, SSR</i>
       </td>
     </tr>
   </table>
@@ -56,17 +64,22 @@ I design and build dynamic, AI-powered applications that solve complex problems 
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 Repository Telemetry & Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar95&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=58A6FF&title_color=58A6FF&text_color=79C0FF&icon_color=58A6FF" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar95&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=ffffff&sideLabels=79C0FF&sideNums=79C0FF&dates=79C0FF" height="190" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-Kumar95&show_icons=true&theme=omni&hide_border=true&bg_color=0D1117&ring_color=00FF9D&title_color=00FF9D&text_color=E6E6E6&icon_color=00FF9D" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-Kumar95&theme=omni&hide_border=true&background=0D1117&ring=00FF9D&fire=00FF9D&currStreakNum=ffffff&sideLabels=E6E6E6&sideNums=E6E6E6&dates=E6E6E6" height="190" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-Kumar95&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=79C0FF&title_color=58A6FF" alt="Top Languages" />
+  <!-- GitHub Snake Contribution Graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aman-Kumar95/Aman-Kumar95/output/dist/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
-<p align="center"><i>"Building the future, one commit at a time."</i></p>
+<p align="center"><i>"Complexity is the enemy of execution. Build modularly."</i></p>
